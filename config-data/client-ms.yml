@@ -1,0 +1,9 @@
+server:
+  port: 8081
+
+spring:
+  data:
+    mongodb:
+      database: Bootcamp32
+      host: localhost
+      port: 27017
