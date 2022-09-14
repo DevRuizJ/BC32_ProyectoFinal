@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/BC32_ProyectoFinal.iml" filepath="$PROJECT_DIR$/.idea/BC32_ProyectoFinal.iml" />
       <module fileurl="file://$PROJECT_DIR$/ClientMS/ClientMS.iml" filepath="$PROJECT_DIR$/ClientMS/ClientMS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ConfigurationMS/ConfigurationMS.iml" filepath="$PROJECT_DIR$/ConfigurationMS/ConfigurationMS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RegistrationMS/RegistrationMS.iml" filepath="$PROJECT_DIR$/RegistrationMS/RegistrationMS.iml" />
     </modules>
   </component>
 </project>
