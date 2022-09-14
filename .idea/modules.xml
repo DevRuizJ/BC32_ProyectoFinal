@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/BC32_ProyectoFinal.iml" filepath="$PROJECT_DIR$/.idea/BC32_ProyectoFinal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ClientMS/ClientMS.iml" filepath="$PROJECT_DIR$/ClientMS/ClientMS.iml" />
+    </modules>
+  </component>
+</project>
