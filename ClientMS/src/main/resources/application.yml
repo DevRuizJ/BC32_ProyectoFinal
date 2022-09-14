@@ -1,6 +1,4 @@
 spring:
-  active:
-    profile: dev
   application:
     name: client-ms
   cloud:
